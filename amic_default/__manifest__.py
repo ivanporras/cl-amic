@@ -93,7 +93,7 @@
 
         'http://github.com/jobiols/cl-amic.git',
         'http://github.com/jobiols/odoo-addons.git',
-        'git@github.com:jobiols/jeo-addons.git'
+        'git@github.com:jobiols/jeo-addons.git',
         #{'usr': 'jobiols', 'repo': 'jeo-addons', 'branch': '11.0', 'ssh': True,'host': 'github.com-jeo'},
 
         'http://github.com/ingadhoc/odoo-argentina.git',
