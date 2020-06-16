@@ -18,7 +18,7 @@
 #
 # -----------------------------------------------------------------------------
 {
-    'name': 'AMIC',
+    'name': 'AMIC-13',
     'version': '13.0.0.0.0',
     'license': 'Other OSI approved licence',
     'category': 'Default Application',
