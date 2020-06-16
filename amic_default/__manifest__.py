@@ -104,11 +104,9 @@
         'http://github.com/ingadhoc/argentina-reporting.git',
         'http://github.com/ingadhoc/reporting-engine.git',
         'http://github.com/ingadhoc/sale.git',
-        'http://github.com/ingadhoc/odoo-support.git',
         'http://github.com/ingadhoc/product.git',
         'http://github.com/ingadhoc/stock.git',
         'http://github.com/ingadhoc/account-invoicing.git',
-        'http://github.com/ingadhoc/patches.git',
         'http://github.com/oca/queue.git',
         'http://github.com/oca/partner-contact.git',
         'http://github.com/oca/web.git',
@@ -126,7 +124,7 @@
     ],
 
     'docker-images': [
-        'odoo jobiols/odoo-ent:13.0',
+        'odoo jobiols/odoo-jeo:13.0',
         'postgres postgres:10.1-alpine',
         'nginx nginx'
     ],
